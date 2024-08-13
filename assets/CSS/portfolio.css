@@ -1,0 +1,63 @@
+/* Anexar DEPOIS
+
+.portfolio {
+    display: flex;
+    flex-direction: column ;
+    justify-content: flex-start;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.portfolio li {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 1rem 0;
+
+}
+
+.portfolio li .title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: .5rem;
+}
+
+.portfolio li .title.github::before {
+    content: '';
+    display: inline-block;
+    width: 1.5rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(../img/icons/github.svg);
+    margin-right: .5rem;
+
+}
+
+*/ 
+
+/*     <section class="acordeon open">
+        <button class="trigger" type="button">
+
+                Portifólio
+
+        </button>
+
+            <div class="content">
+                <ul class="portfolio">
+                    <li>
+                        <span class="title github">Teste</span>
+                        <a href="https://www.google.com/" target="_blank">https://www.google.com/</a>
+                    </li>
+                </ul>
+            </div>
+    </section> 
+
+    */
+
+    /* Guardando sessão do Portfolio.
